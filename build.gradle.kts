@@ -18,7 +18,6 @@ repositories {
 
 dependencies {
 	compile("com.pusher:pusher-http-java:1.0.0")
-	implementation("com.github.MiguelFSR:chatV:Tag")
 	compile("com.google.cloud:google-cloud-dialogflow:0.59.0-alpha")
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
